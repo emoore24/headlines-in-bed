@@ -28,3 +28,6 @@ node_modules
 
 # Vim swap
 *.swp
+
+# Twitter credentials
+config.js
